@@ -1,0 +1,15 @@
+.SignUpButton{
+    position:relative;
+    bottom: 20px;
+}
+
+@media all and (max-width:496px) { 
+    .SignUpButton{
+        position:relative;
+        /* bottom: 80px; */
+    }
+    
+}
+
+
+
